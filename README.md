@@ -1,4 +1,10 @@
 Customer Retention & Revenue Optimization Analysis
+
+## Dashboard Preview
+
+![Customer Retention Dashboard](dashboard_preview.png)
+
+
 Business Objective
 
 This project explores an online retail dataset to understand what drives revenue, how customers behave over time, and where the business is losing value through churn.
