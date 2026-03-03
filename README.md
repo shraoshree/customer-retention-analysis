@@ -19,11 +19,17 @@ The dataset allows customer-level analysis across time.
 Tools & Methods Used
 
 Python (Pandas, NumPy) for data cleaning and aggregation
+
 RFM segmentation to identify customer value tiers
+
 Cohort analysis to measure retention behavior over time
+
 Churn rate calculation at segment level
+
 Customer Lifetime Value estimation
+
 Revenue growth simulation scenarios
+
 Tableau for interactive dashboard visualization
 
 Key Insights
